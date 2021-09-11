@@ -1,6 +1,6 @@
 # Resource Operator for k8s
 
-Operator that automatically creates LimitRanges in newly namespaces
+Operator that automatically creates LimitRanges in namespaces
 
 # Configuration
 
