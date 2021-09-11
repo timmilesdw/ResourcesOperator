@@ -39,8 +39,7 @@ spec:
       serviceAccount: resource-operator
       containers:
       - name: resource-operator
-        image: timmiles/test:latest
-        imagePullPolicy: Always
+        image: timmiles/resourcesoperator:0.1.0
         resources:
           limits:
             memory: "50Mi"

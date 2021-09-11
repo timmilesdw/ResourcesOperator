@@ -1,5 +1,5 @@
 {
-  "name": "resourceoperator",
+  "name": "resourcesoperator",
   "version": "0.1.0",
   "description": "Operator to set Limits to created namespace based on labels",
   "main": "./src/index.ts",
